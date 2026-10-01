@@ -1,0 +1,61 @@
+# vscode-setup · extensiones de la instalación básica
+#
+# Un identificador por línea (editor.nombre, tal como aparece en el Marketplace).
+# Las líneas que empiezan con # son comentarios. Los instaladores leen este
+# archivo; para añadir o quitar una extensión, edítalo y vuelve a ejecutar
+# el instalador. La explicación de cada una está en docs/extensiones.md.
+#
+# Ninguna de estas modifica los archivos de VS Code. Las dos que sí lo hacen
+# están aparte, en extensiones-fondo.txt, y solo se instalan con --fondo.
+
+# ── Temas de color ──────────────────────────────────────────────
+Catppuccin.catppuccin-vsc
+enkia.tokyo-night
+zhuangtongfa.material-theme
+dracula-theme.theme-dracula
+mvllow.rose-pine
+jdinhlife.gruvbox
+arcticicestudio.nord-visual-studio-code
+sdras.night-owl
+teabyii.ayu
+sainnhe.everforest
+qufiwefefwoyn.kanagawa
+GitHub.github-vscode-theme
+BeardedBear.beardedtheme
+RobbOwen.synthwave-vscode
+
+# ── Iconos de archivos y carpetas ───────────────────────────────
+vscode-icons-team.vscode-icons
+PKief.material-icon-theme
+Catppuccin.catppuccin-vsc-icons
+miguelsolorio.symbols
+
+# ── Iconos de la interfaz ───────────────────────────────────────
+miguelsolorio.fluent-icons
+antfu.icons-carbon
+
+# ── Ayudas visuales en el código ────────────────────────────────
+oderwat.indent-rainbow
+usernamehw.errorlens
+aaron-bond.better-comments
+naumovs.color-highlight
+Gruntfuggly.todo-tree
+vincaslt.highlight-matching-tag
+yoavbls.pretty-ts-errors
+kisstkondoros.vscode-gutter-preview
+mechatroner.rainbow-csv
+johnpapa.vscode-peacock
+
+# ── Git ─────────────────────────────────────────────────────────
+eamodio.gitlens
+mhutchie.git-graph
+
+# ── Documentos, diagramas y capturas ────────────────────────────
+shd101wyy.markdown-preview-enhanced
+pomdtr.excalidraw-editor
+hediet.vscode-drawio
+adpyke.codesnap
+
+# ── Diversión ───────────────────────────────────────────────────
+tonybaloney.vscode-pets
+hoovercj.vscode-power-mode

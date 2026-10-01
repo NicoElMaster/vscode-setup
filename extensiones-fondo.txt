@@ -1,0 +1,11 @@
+# vscode-setup · extensiones de la parte opcional "fondo"
+#
+# Solo se instalan con ./install.sh --fondo (o -Fondo en Windows), porque
+# modifican los archivos de instalación de VS Code. Mira docs/fondo-y-fuente.md.
+
+# Pone la imagen de fondo y cambia la fuente de toda la interfaz.
+subframe7536.custom-ui-style
+
+# Alternativa para poner imágenes de fondo. Se instala apagada
+# ("background.enabled": false) para que no choque con la anterior.
+shalldie.background

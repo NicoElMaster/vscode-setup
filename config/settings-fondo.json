@@ -1,0 +1,8 @@
+{
+    "custom-ui-style.font.sansSerif": "'JetBrainsMono Nerd Font', 'JetBrainsMono NF', 'Adwaita Sans', 'Segoe UI', system-ui, sans-serif",
+    "custom-ui-style.font.monospace": "'JetBrainsMono Nerd Font', 'JetBrainsMono NF', monospace",
+    "custom-ui-style.background.opacity": 0.9,
+    "custom-ui-style.background.size": "cover",
+
+    "background.enabled": false
+}

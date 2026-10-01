@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">vscode-setup</title>
+  <desc id="descripcion">Tu VS Code, bonito de verdad, en un solo comando. Tema Catppuccin Mocha, 40 extensiones y mascotas.</desc>
+
+  <!-- Paleta Catppuccin Mocha -->
+  <rect x="1" y="1" width="1198" height="358" rx="18" fill="#1e1e2e" stroke="#313244" stroke-width="2"/>
+
+  <!-- Barra de título -->
+  <path d="M1 19a18 18 0 0 1 18-18h1162a18 18 0 0 1 18 18v33H1z" fill="#181825"/>
+  <circle cx="34" cy="27" r="7" fill="#f38ba8"/>
+  <circle cx="58" cy="27" r="7" fill="#f9e2af"/>
+  <circle cx="82" cy="27" r="7" fill="#a6e3a1"/>
+  <text x="600" y="32" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#a6adc8">vscode-setup — Visual Studio Code</text>
+
+  <!-- Título -->
+  <g font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <text x="64" y="142" font-size="56" font-weight="700" fill="#cdd6f4">vscode<tspan fill="#cba6f7">-</tspan>setup</text>
+    <text x="66" y="188" font-size="20" fill="#a6adc8">Tu VS Code, bonito de verdad,</text>
+    <text x="66" y="216" font-size="20" fill="#a6adc8">en un solo comando.</text>
+
+    <rect x="64" y="246" width="250" height="44" rx="10" fill="#11111b" stroke="#313244"/>
+    <text x="84" y="275" font-size="18" fill="#cdd6f4"><tspan fill="#a6e3a1">$</tspan> ./install.sh</text>
+  </g>
+
+  <!-- Editor -->
+  <rect x="640" y="84" width="496" height="206" rx="12" fill="#181825" stroke="#313244"/>
+  <g font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="18">
+    <g fill="#585b70" text-anchor="end">
+      <text x="682" y="124">1</text>
+      <text x="682" y="152">2</text>
+      <text x="682" y="180">3</text>
+      <text x="682" y="208">4</text>
+      <text x="682" y="236">5</text>
+      <text x="682" y="264">6</text>
+    </g>
+    <g fill="#9399b2">
+      <text x="704" y="124">{</text>
+      <text x="728" y="152"><tspan fill="#89b4fa">"tema"</tspan>: <tspan fill="#a6e3a1">"Catppuccin Mocha"</tspan>,</text>
+      <text x="728" y="180"><tspan fill="#89b4fa">"extensiones"</tspan>: <tspan fill="#fab387">40</tspan>,</text>
+      <text x="728" y="208"><tspan fill="#89b4fa">"mascotas"</tspan>: <tspan fill="#fab387">true</tspan>,</text>
+      <text x="728" y="236"><tspan fill="#89b4fa">"terminal"</tspan>: <tspan fill="#a6e3a1">"opcional"</tspan></text>
+      <text x="704" y="264">}</text>
+    </g>
+  </g>
+
+  <!-- Colores de la paleta -->
+  <g>
+    <rect x="64"  y="318" width="26" height="10" rx="5" fill="#f38ba8"/>
+    <rect x="98"  y="318" width="26" height="10" rx="5" fill="#fab387"/>
+    <rect x="132" y="318" width="26" height="10" rx="5" fill="#f9e2af"/>
+    <rect x="166" y="318" width="26" height="10" rx="5" fill="#a6e3a1"/>
+    <rect x="200" y="318" width="26" height="10" rx="5" fill="#94e2d5"/>
+    <rect x="234" y="318" width="26" height="10" rx="5" fill="#89b4fa"/>
+    <rect x="268" y="318" width="26" height="10" rx="5" fill="#b4befe"/>
+    <rect x="302" y="318" width="26" height="10" rx="5" fill="#cba6f7"/>
+  </g>
+</svg>

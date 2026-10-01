@@ -1,0 +1,9 @@
+# Los scripts de bash y Python fallan con finales de línea de Windows (CRLF),
+# así que se guardan siempre con LF aunque el repositorio se clone en Windows.
+* text=auto
+*.sh   text eol=lf
+*.py   text eol=lf
+*.toml text eol=lf
+*.conf text eol=lf
+*.jpg  binary
+*.png  binary
