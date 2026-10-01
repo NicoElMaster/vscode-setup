@@ -19,12 +19,7 @@ No cambia tu forma de programar ni instala nada para un lenguaje concreto: solo 
 
 Puedes instalarla de tres formas: [pidiéndoselo a un agente de IA](#opción-1-que-lo-instale-un-agente-de-ia), [con el instalador](#opción-2-con-el-instalador) o [a mano, paso a paso](#opción-3-a-mano).
 
-<!--
-  Para mostrar una captura de pantalla, guárdala como assets/captura.png
-  y saca la línea siguiente de este comentario:
-
-  ![Captura de VS Code con vscode-setup](assets/captura.png)
--->
+![VS Code con vscode-setup: tema Catppuccin Mocha, iconos en el explorador, la mascota en su bosque y el prompt de Starship en la terminal](assets/captura.png)
 
 ## ✨ Qué incluye
 
@@ -192,7 +187,7 @@ vscode-setup/
 │   ├── settings.json              Ajustes visuales de VS Code
 │   └── settings-fondo.json        Ajustes del fondo y la fuente de la interfaz
 ├── terminal/                      Tema de Starship y configuración de bat
-├── assets/                        Imagen de fondo y banner
+├── assets/                        Imagen de fondo, banner y captura
 ├── scripts/                       Piezas internas de los instaladores
 ├── docs/                          Guías paso a paso
 ├── AGENTS.md                      Instrucciones para agentes de IA
